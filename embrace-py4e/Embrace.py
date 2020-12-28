@@ -1,0 +1,1 @@
+print('embrace the future')
